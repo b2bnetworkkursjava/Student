@@ -20,4 +20,5 @@ public class SubjectUtil {
         Subject subject = new Subject(name, score);
         subjects.add(subject);
     }
+
 }
